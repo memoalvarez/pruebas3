@@ -12,7 +12,7 @@
         <sheet>
               <group>
                   <group>
-                    <label for="id_card_copy" string="Adjuntar archivo"/>
+                    <label for="id_card_copy" 'ir.attachment'/>
                     <field name="id_card_copy" required="0" widget="many2many_binary"/>
                     <field name="acta_de_nacimiento" required="0" widget="many2many_binary"/>
                     <field name="numero_de_seguro_social" required="0" widget="many2many_binary"/>
