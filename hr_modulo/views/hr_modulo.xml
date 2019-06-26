@@ -24,7 +24,7 @@
                   <group>
                     <field name="comprobante_de_domicilio" required="0" nolabel="1" widget="many2many_binary"/>
                     <field name="comprobante_de_estudios" required="0" nolabel="1" widget="many2many_binary"/>
-                    <field name="certificaciones" required="0" nolabel="1" widget="many2many_binary" nolabel="1"/>
+                    <field name="certificaciones" required="0" nolabel="1" widget="many2many_binary"/>
                     <field name="hoja_de_retencion_para_credito_infonavit" required="0" nolabel="1" widget="many2many_binary"/>
                     <field name="hoja_de_retencion_para_credito_fonacot" required="0" nolabel="1" widget="many2many_binary"/>
                     <field name="carta_de_recomendacion" required="0" nolabel="1" widget="many2many_binary"/>
